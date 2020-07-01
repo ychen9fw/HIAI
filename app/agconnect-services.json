@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890001000000000755",
+		"product_id":"736430079244542365",
+		"client_id":"397399440500982912",
+		"client_secret":"E5170BF21B7BA210AA30F524F8BDE6E75713A8D3344D31D047D810FCF74B58C9",
+		"app_id":"102495897",
+		"package_name":"com.ychen9.hiaidemo",
+		"api_key":"CgB6e3x9KM/+MpE7YDUwzZsKEM8iDLJvQuCON7dvEVT30S2XzDGY4VEVrcV49MEANicmt6/tEnQjcMMxsz8CN8ro"
+	},
+	"configuration_version":"1.0"
+}
